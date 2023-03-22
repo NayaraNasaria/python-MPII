@@ -1,6 +1,3 @@
-# -*- coding: utf-8 -*-
-
-# -*- coding: utf-8 -*-
 Alimentacao = []
 Moradia = []
 Transporte = []
